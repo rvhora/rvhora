@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rvhora/rvhora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+I'm Rupesh Vhora, a full stack developer. 🔭 I'm building [React applications](https://github.com/rvhora) and a few projects.
+
+💬 You can find my portfoil on my [Portfolio](http://resume.rupeshvhora.surge.sh/)
+
+More to come soon!
