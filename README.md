@@ -19,10 +19,11 @@ I'm Rupesh Vhora, a full stack developer. 🔭 I'm building [React applications]
 
 💬 You can find my portfoil on my [Portfolio](http://resume.rupeshvhora.surge.sh/)
 
-🏡 [website][website] **|** 
+
 <!--📺 [youtube][youtube] **|** 
 🎥 [twitch][twitch] **|** 
 📦 [npm][npm] **|** -->
+🏡 [website][website] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
