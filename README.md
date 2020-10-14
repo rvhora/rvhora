@@ -19,4 +19,20 @@ I'm Rupesh Vhora, a full stack developer. 🔭 I'm building [React applications]
 
 💬 You can find my portfoil on my [Portfolio](http://resume.rupeshvhora.surge.sh/)
 
+🏡 [website][website] **|** 
+<!--📺 [youtube][youtube] **|** 
+🎥 [twitch][twitch] **|** 
+📦 [npm][npm] **|** -->
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[website]: http://resume.rupeshvhora.surge.sh/
+<!--[twitter]: https://twitter.com/jamesqquick
+[youtube]: https://youtube.com/jamesqquick
+[twitch]: https://twitch.tv/jamesqquick-->
+[instagram]: https://instagram.com/rupeshvhora
+[linkedin]: https://www.linkedin.com/in/rupesh-vhora/
+
+
+
 More to come soon!
