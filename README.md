@@ -21,7 +21,7 @@ GITHUB PROFILE GENERATOR --https://arturssmirnovs.github.io/github-profile-readm
 -->
 
 ![Design and Development](https://github.com/rvhora/rvhora/blob/main/fullStack_1.jpeg)
-<img src="https://github.com/rvhora/rvhora/blob/main/fullStack_1.jpeg" width="100%" >
+<img src="https://github.com/rvhora/rvhora/blob/main/fullStack_1.jpeg" width="100%" height="300px" >
 # Rupesh Vhora 
 I'm Rupesh Vhora, a full stack developer. I really enjoy learning languages and frameworks like React and devops. 
 
