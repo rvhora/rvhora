@@ -20,7 +20,7 @@ More to come soon!
 GITHUB PROFILE GENERATOR --https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
 
-![Design and Development](https://github.com/rvhora/rvhora/blob/main/fullStack_2.jpeg)
+![Design and Development](https://github.com/rvhora/rvhora/blob/main/fullStack_2.jpg)
 
 # Rupesh Vhora 
 I'm Rupesh Vhora, a full stack developer. I really enjoy learning languages and frameworks like React and devops. 
