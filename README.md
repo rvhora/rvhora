@@ -29,7 +29,7 @@ I'm Rupesh Vhora, a full stack developer. I really enjoy learning languages and 
 
 ## Skills and Experience
 <p>
-  <img alt="Javascript" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-45b8d8?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-quare&logo=react&logoColor=%2361DAFB" />
   <img alt="React" src="https://img.shields.io/badge/-NextJs-45b8d8?style=flat-square&logo=nextdotjs&logoColor=white" />
